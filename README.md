@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:telescope:  I'm currently a student pursuing my Bachelor of Information Systems
+:telescope:  I'm an Information System student. Programming and Linux enthusiast
 
 ### Languages and Tools:
 <p>
