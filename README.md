@@ -13,7 +13,7 @@
 <p/>
 
 ### :incoming_envelope: Find me at:
- <a href="reisalvesb@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/bruno-roberto-reis-alves-191aa86a/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="mailto:reisalvesb@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/bruno-roberto-reis-alves-191aa86a/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!--
 **br93/br93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
