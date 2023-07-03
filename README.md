@@ -15,6 +15,13 @@
     <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
 <p/>
 
+<br/>
+
+<div style="display: flex">
+ <img width="350"  src="https://github-readme-stats.vercel.app/api?username=br93&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+ <img width="350"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=br93&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+
 ### :incoming_envelope: Find me at:
  <a href="mailto:reisalvesb@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/bruno-roberto-reis-alves-191aa86a/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!--
